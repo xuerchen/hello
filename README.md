@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Tips for using Viash
 
-You can use the [editor on GitHub](https://github.com/xuerchen/hello/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Viash](https://viash.io/) is a tool designed to turn R and Python scripts into Dockerized components. It can be executed from the command line and integrated into a workflow system like [Nextflow](https://www.nextflow.io/). We used Viash in the [NeurIPS 2021 competition for multimodal single-cell data integration](https://eval.ai/web/challenges/challenge-page/1111/overview).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
