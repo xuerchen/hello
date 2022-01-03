@@ -1,6 +1,4 @@
-## Tips for using Viash
-
-We wrote our codes and integrated our models into a newfound mysterious piece of software called **Viash** since it is the official environment in the [NeurIPS 2021 competition for multimodal single-cell data integration](https://eval.ai/web/challenges/challenge-page/1111/overview). It was a fun but bumpy road. This short article summarizes what we found and hopefully it could be useful for your use cases. 
+We wrote our codes and integrated our models into a newfound mysterious piece of software called **[Viash](https://viash.io/)** since it is the official environment in the [NeurIPS 2021 competition for multimodal single-cell data integration](https://eval.ai/web/challenges/challenge-page/1111/overview). It was a fun but bumpy road. This short article summarizes what we found and hopefully it could be useful for your use cases. 
 
 From the competition's [intro](https://openproblems.bio/neurips_docs/submission/quickstart/), we learned that _"[Viash](https://viash.io/) is a tool designed to turn R and Python scripts into Dockerized components. It can be executed from the command line and integrated into a workflow system like [Nextflow](https://www.nextflow.io/)."_
 
