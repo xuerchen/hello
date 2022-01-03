@@ -1,6 +1,12 @@
-We wrote our codes and integrated our models into a newfound mysterious piece of software called **[Viash](https://viash.io/)** since it is the official environment in the [NeurIPS 2021 competition for multimodal single-cell data integration](https://eval.ai/web/challenges/challenge-page/1111/overview). It was a fun but bumpy road. This short article summarizes what we found and hopefully it could be useful for your use cases. 
+# Tips for using Viash
 
-From the competition's [intro](https://openproblems.bio/neurips_docs/submission/quickstart/), we learned that _"[Viash](https://viash.io/) is a tool designed to turn R and Python scripts into Dockerized components. It can be executed from the command line and integrated into a workflow system like [Nextflow](https://www.nextflow.io/)."_
+We wrote our codes and integrated our models into a newfound mysterious piece of software called **[Viash](https://viash.io/)** since it is the official environment in the [NeurIPS 2021 competition for multimodal single-cell data integration](https://eval.ai/web/challenges/challenge-page/1111/overview). It was a fun but bumpy road. This article summarizes what we found and hopefully it could be useful for your use cases. 
+
+From the competition's [intro](https://openproblems.bio/neurips_docs/submission/quickstart/), we learned that _"[Viash](https://viash.io/) is a tool designed to turn R and Python scripts into Dockerized components. It can be executed from the command line and integrated into a workflow system like [Nextflow](https://www.nextflow.io/)."_ All right, that sounds cool but pretty high-level. Why not we just jump into concrete examples and see how it works.
+
+### Example 1: [NeurIPS 2021 Single Cell Modality Prediction Starter Kit](https://github.com/openproblems-bio/neurips2021_multimodal_viash/releases)
+This might be the simpliest example we know to use viash end-to-end in a machine learning examples.  
+
 
 ### Markdown
 
